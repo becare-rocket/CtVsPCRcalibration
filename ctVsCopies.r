@@ -1,7 +1,7 @@
 ## Ct Vs. Copies Paper R Code
 ## Paper Title: Possible Estimation Bias due to High PCR Cycle Threshold Cutoff (Ct)
 ## version 2021-05-26: For 25 May 2021
-## Paper available DOI: 10.13140/RG.2.2.19487.69282
+## Paper available http://dx.doi.org/10.13140/RG.2.2.19487.69282
 ## Code and Paper Author: Michael Halem 
 ## Code (c) Michael Halem 2021
 ## This code may be freely used or reused as long as it is attributed to the author.
